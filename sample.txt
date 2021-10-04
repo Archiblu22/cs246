@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Something different
+=======
+Write a short message plus another short message and one more modification
+>>>>>>> 089a6291014366eb3f4eee94a61bb5d37e35fe6a
